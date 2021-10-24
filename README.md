@@ -18,11 +18,9 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Palm</h1>
 <h3 align="center">The Product-Minded Software Engineer</h3>
-<div align="center">
 [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kanokpolkulsri)](https://www.linkedin.com/in/kanokpolkulsri)
 [![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/palmkanokpol)](https://instagram.com/palmkanokpol)
 [![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=kanokpolkulsri@gmail.com)](mailto:kanokpolkulsri@gmail.com)
-</div>
 <br/><br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kanokpolkulsri&title=MultiLanguage,Stars,Repositories,Commit)](https://github.com/ryo-ma/github-profile-trophy)
