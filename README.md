@@ -1,6 +1,7 @@
+<!--
 ### Hi there 👋
 
-<!--
+
 **kanokpolkulsri/kanokpolkulsri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,6 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Palm</h1>
 <h3 align="center">The Product-minded Software Engineer</h3>
+<br/><br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kanokpolkulsri&title=MultiLanguage,Stars,Repositories,Commit)](https://github.com/ryo-ma/github-profile-trophy)
 
