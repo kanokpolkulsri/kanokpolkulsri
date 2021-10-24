@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Palm</h1>
-<h3 align="center">The Product-minded Software Engineer</h3>
+<h3 align="center">The Product-Minded Software Engineer</h3>
 <br/><br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kanokpolkulsri&title=MultiLanguage,Stars,Repositories,Commit)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kanokpolkulsri&title=MultiLanguage,Stars,Repositories,Commit)]
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kanokpolkulsri&count_private=true&show_icons=true&hide=issues,contribs)
