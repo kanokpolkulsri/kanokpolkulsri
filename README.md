@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 <h3 align="center">The Product-Minded Software Engineer</h3>
 <br/><br/>
 
+- 👯 Tech Shabu: [techshabu.com](https://techshabu.com)
+
+<br/><br/>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=kanokpolkulsri&title=MultiLanguage,Stars,Repositories,Commit&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kanokpolkulsri&count_private=true&show_icons=true&hide=issues,contribs)
