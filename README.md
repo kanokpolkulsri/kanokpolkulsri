@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Palm</h1>
 <h3 align="center">The Product-Minded Software Engineer</h3>
-<br/><br/>
+<br/>
 
 - ⚡ LinkedIn: [Kanokpol (Palm) Kulsri](https://www.linkedin.com/in/kanokpolkulsri)
 - 😄 Tech Shabu: [techshabu.com](https://techshabu.com)
+<br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kanokpolkulsri&title=MultiLanguage,Stars,Repositories,Commit&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
