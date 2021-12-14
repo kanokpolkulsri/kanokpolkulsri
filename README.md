@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 <h3 align="center">The Product-Minded Software Engineer</h3>
 <br/><br/>
 
-- 👯 Tech Shabu: [techshabu.com](https://techshabu.com)
+- 😄 Tech Shabu: [techshabu.com](https://techshabu.com)
+- ⚡ LinkedIn: [Kanokpol (Palm) Kulsri](https://www.linkedin.com/in/kanokpolkulsri)
 
 <br/><br/>
 
